@@ -1,1 +1,1 @@
-# Skip-to-Main-GT-vs-CSK-Final-Interactive-model-assignment
+# GT-vs-CSK-Final-Interactive-model-assignment
